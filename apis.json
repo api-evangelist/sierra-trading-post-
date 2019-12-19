@@ -1,0 +1,52 @@
+{
+    "name": "Sierra Trading Post",
+    "description": "Discover the Brands. Discover the Savings. Discover a Bigger Life.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/931-sierra-trading-post-.jpg",
+    "tags": [
+        "have api",
+        "shopping"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sierra-trading-post-\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sierra Trading Post",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/931-sierra-trading-post-.jpg",
+            "humanURL": "http:\/\/www.sierratradingpost.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sierra-trading-post--postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.sierratradingpost.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sierra-trading-post"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/sierratradingpost"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sierradevnet"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Sierratp"
+        }
+    ]
+}
